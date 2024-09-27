@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 2623
+# Total number of network filters: 2624
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -13,8 +13,8 @@
 #
 # Torrent list
 # ------------------------------------[FILTERS]-------------------------------------
-# server=/mc.yandex.ru/ Issue 156
-# server=/surfshark.com/ Issue 161
+# server=/mc.yandex.ru/
+# server=/surfshark.com/
 server=/0second.com/
 server=/10mbit.com/
 server=/123bits.org/
@@ -139,7 +139,6 @@ server=/degree-anime.com/
 server=/deph.edwardk.info/
 server=/digitalboots.net/
 server=/digitalpanic.org/
-server=/directory.fsf.org/
 server=/downloadanime.org/
 server=/dreamorabt.com/
 server=/eddie4.nl/
@@ -154,6 +153,7 @@ server=/everydayjones.com/
 server=/evolutiontt.org/
 server=/excalibur.edwardk.info/
 server=/eztvefnet.org/
+server=/eztv.re/
 server=/f.moya.scarywater.net/
 server=/familyguytorrents.com/
 server=/fatalbits.ws/
@@ -253,7 +253,6 @@ server=/nineoneone.nl/
 server=/nipples.hopto.org/
 server=/niteshdw.com/
 server=/nolatapers.org/
-server=/npr.org/
 server=/nw0.info/
 server=/nzone.com/
 server=/oink.me.uk/
@@ -536,6 +535,9 @@ server=/atrack-asia-s1.114913.xyz/
 server=/atrack.pow7.com/
 server=/audiobit.ru/
 server=/audionews.ru/
+server=/audiobookbay.is/
+server=/audiobookbay.li/
+server=/audiobookbay.se/
 server=/audiostuff.ro/
 server=/audiotracer.com/
 server=/audiozonetorrents.com/
@@ -1009,7 +1011,6 @@ server=/forum.gfxnews.ru/
 server=/forum.punktorrents.com/
 server=/forums.darkside-raws.net/
 server=/forums.mvgroup.org/
-server=/fossbytes.com/
 server=/fourfriends.biz/
 server=/fox-kids.info/
 server=/freebookspot.unblocked.llc/
@@ -1658,6 +1659,7 @@ server=/sharingzone.se/
 server=/shellife.eu/
 server=/shnflac.net/
 server=/showbits.org/
+server=/showrss.info/
 server=/siambit.com/
 server=/siambt.com/
 server=/sifara.com/
@@ -1829,7 +1831,6 @@ server=/torrent.jiwang.cc/
 server=/torrent.lt/
 server=/torrent.mp3quran.net/
 server=/torrent.net13.ro/
-server=/torrent.nwps.w/
 server=/torrent.nwps.ws/
 server=/torrent.pimpyourmobile.info/
 server=/torrent.resonatingmedia.com/
@@ -1866,10 +1867,11 @@ server=/torrentesx.com/
 server=/torrentfinder.ru/
 server=/torrentfr.org/
 server=/torrentfrancais.com/
-server=/torrentfreak.com/
+# server=/torrentfreak.com/
 server=/torrentfreakz.org/
 server=/torrentfriend.net/
 server=/torrentfunk.unblocked.llc/
+server=/torrentgalaxy.to/
 server=/torrenthound.com/
 server=/torrenthr.org/
 server=/torrential.ws/
@@ -2041,7 +2043,6 @@ server=/tracker.nyaa.uk/
 server=/tracker.nyap2p.com/
 server=/tracker.open-internet.nl/
 server=/tracker.openbittorrent.com/
-server=/tracker.opentrackr.org/
 server=/tracker.openwebtorrent.com/
 server=/tracker.optus.nu/
 server=/tracker.paradise-tracker.com/
@@ -2638,3 +2639,4 @@ server=/zooqle.com/
 server=/zooqle.unblocked.llc/
 server=/zoozle.org/
 server=/ztracker.hu/
+server=/getdstudio.cc/

@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 1265
+# Total number of network filters: 1274
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -149,11 +149,11 @@ server=/bull-option.com/
 server=/bullionoption.org/
 server=/bulliontrade24.com/
 server=/buloption.com/
-server=/bunwaejrx.com/ #issue 44 add request
+server=/bunwaejrx.com/
 server=/burgershirt.com/
 server=/buydubuy.com/
 server=/buzzazone.com/
-server=/calcotsjvila.cat/ #issue 45 add requeset
+server=/calcotsjvila.cat/
 server=/candlesbymadison.com/
 server=/caperforaciones.com/
 server=/capitalmult.com/
@@ -378,7 +378,7 @@ server=/litcomplex.com/
 server=/loaloeloaeeo.com/
 server=/look-like-star.myshopify.com/
 server=/lookinmyheart.com/
-# server=/lootcrate.com/ 556
+# server=/lootcrate.com/
 server=/loveinbox.co.uk/
 server=/loveinheart.co.uk/
 server=/loveinsoul.co.uk/
@@ -422,6 +422,7 @@ server=/mvptrend.com/
 server=/mycraftypad.com/
 server=/mystitich4u.com/
 server=/mytenmerch.com/
+server=/mywinterhome.com/
 server=/namemory.co.uk/
 server=/nanistores.com/
 server=/nasajones.com/
@@ -524,6 +525,7 @@ server=/reanimando.org/
 server=/rebeccatees.com/
 server=/redbnoptions.com/
 server=/rediffbase.com/
+server=/refinely.com/
 server=/reviewshirts.com/
 server=/rickamortyshop.com/
 server=/ringtoperfection.com/
@@ -949,7 +951,7 @@ server=/www.litcomplex.com/
 server=/www.loaloeloaeeo.com/
 server=/www.look-like-star.myshopify.com/
 server=/www.lookinmyheart.com/
-# server=/www.lootcrate.com/ 556
+# server=/www.lootcrate.com/
 server=/www.loveinbox.co.uk/
 server=/www.loveinheart.co.uk/
 server=/www.loveinsoul.co.uk/
@@ -1193,7 +1195,7 @@ server=/rmail-payments.co.uk/
 server=/citasyencuentros.com/
 server=/ammjaflk.ru/
 server=/hovrecording.com/
-# server=/whynotwin11.com/ Issue 375
+# server=/whynotwin11.com/
 server=/mycleanpc.com/
 server=/gghacks.com/
 server=/www.gghacks.com/
@@ -1239,6 +1241,7 @@ server=/get-cracked.com/
 server=/www.get-cracked.com/
 server=/validcardcodes.get-cracked.com/
 server=/roblox.get-cracked.com/
+server=/franchisingcity.com/
 server=/freegiftcodes.get-cracked.com/
 server=/blog.get-cracked.com/
 server=/gametrailers.get-cracked.com/
@@ -1250,6 +1253,7 @@ server=/keygen.get-cracked.com/
 server=/getproductkeys.get-cracked.com/
 server=/downloading.get-cracked.com/
 server=/server.get-cracked.com/
+server=/setandforget.net/
 server=/wwwshopstasiacom.get-cracked.com/
 server=/download.get-cracked.com/
 server=/hack.get-cracked.com/
@@ -1281,3 +1285,8 @@ server=/hdfccard.ubona.com/
 server=/bcryp.net/
 server=/connectwalletnow.com/
 server=/cbtoken.me/
+server=/amazononlinewinners.in/
+server=/kyrycp.online.dream.website/
+server=/discorcl-nltro.xyz/
+server=/indianpost.top/
+server=/soocooponline.net/

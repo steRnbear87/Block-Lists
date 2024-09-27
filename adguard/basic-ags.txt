@@ -4,7 +4,7 @@
 ! Homepage: https://blocklist.site
 ! Help: https://github.com/blocklistproject/lists/wiki/
 ! License: https://unlicense.org
-! Total number of network filters: 76463
+! Total number of network filters: 76459
 ! ------------------------------------[SUPPORT]-------------------------------------
 ! You can support by:
 ! - reporting false positives
@@ -4642,7 +4642,6 @@
 ||ads.clickad.com.pl^
 ||ads.clickagents.com^
 ||ads.clickbuy.bz^
-||ads.clickhouse.com^
 ||ads.clicksor.cn^
 ||ads.clicksor.com^
 ||ads.clickthru.net^
@@ -14927,7 +14926,6 @@
 ||clickgp.gyao.jp^
 ||clickheat.topbucks.com^
 ||clickhereforcellphones.com^
-||clickhouse.com^
 ||clickhype.com^
 ||clickit.go2net.com^
 ||clickjump.biz^
@@ -41644,7 +41642,6 @@
 ||piwik.datawrapper.de  #[Piwik.Analytics]^
 ||piwik.dsp.vn^
 ||piwik.ero-advertising.com^
-||piwik.fsf.org^
 ||piwik.ientry.com^
 ||piwik.medienhaus.com^
 ||piwik.mortgageloan.com  #[Piwik.Analytics]^
@@ -61864,7 +61861,6 @@
 ||www.clickclick.com^
 ||www.clickdensity.com^
 ||www.clickedgesolutions.com^
-||www.clickhouse.com^
 ||www.clickjump.biz^
 ||www.clickmanage.com^
 ||www.clickmeter.com^

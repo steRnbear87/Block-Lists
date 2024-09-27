@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 154563
+# Total number of network filters: 154554
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -633,7 +633,6 @@ _thums.ero-advertising.com
 101-vix-260.mktoresp.com
 101-wmj-500.mktoresp.com
 101.6.87.194.dynamic.dol.ru
-101010.pl
 1010296.adoric-om.com
 10112.engine.mobileapptracking.com
 10130.engine.mobileapptracking.com
@@ -36816,7 +36815,7 @@ api.absolute.adswizz.com
 api.accelerator.intl.miui.com
 api.accengage.com
 api.accengage.net
-api.account.xiaomi.com
+# api.account.xiaomi.com #1019
 api.actionbutton.co
 api.actonsoftware.com
 api.ad-brix.com
@@ -37038,7 +37037,6 @@ api.cossette.adgear.com
 api.cpu.baidu.com
 api.crispadvertising.com
 api.crittercism.com
-api.crowdin.com
 api.crowdtangle.com
 api.crowdtwist.com
 api.cupid.iqiyi.com
@@ -37234,7 +37232,7 @@ api.mediavoice.com
 api.megacool.co
 api.metrics.heroku.com
 api.mgid.com
-api.micloud.xiaomi.net
+# api.micloud.xiaomi.net #1020
 api.mistat.xiaomi.com
 api.miui.security.xiaomi.com
 api.mixpanel.com
@@ -37346,7 +37344,7 @@ api.pushspring.com
 api.pushwoosh.com
 api.pxlad.io
 api.qgraph.io
-api.qrserver.com
+# api.qrserver.com Issue 924
 api.qualaroo.com
 api.qualtrics.com
 api.quantumgraph.com
@@ -47809,7 +47807,6 @@ cablevision.112.2o7.net
 cablyshaw.com
 cabot.apxor.com
 cac-api.urbanairship.com
-cacerts.thawte.com
 cacfbf85ad2005e4c31.com
 cache-05.pushwoosh.com
 cache-06.pushwoosh.com
@@ -49283,7 +49280,6 @@ cdn.content.exoticads.com
 cdn.contentabc.com
 cdn.contentadserver.com
 cdn.contentspread.net
-cdn.cookielaw.org
 cdn.cpiera.com
 cdn.cpmstar.com
 cdn.cpnscdn.com
@@ -49603,7 +49599,6 @@ cdn.petametrics.com
 cdn.platform.openx.com
 cdn.pljs.ru
 cdn.plopx.com
-cdn.plyr.io
 # cdn.podigee.com Issue 174
 cdn.polmontventures.com
 cdn.popcash.net
@@ -50670,7 +50665,7 @@ chatrouterv3.touchcommerce.com
 chatserver.comm100.cn
 chatsworth.d1.sc.omtrdc.net
 # chaturbate.com Not ads
-chatzoe.de 
+chatzoe.de
 chaucha.cl
 chauksoa.net
 chautcho.com
@@ -51817,7 +51812,6 @@ clickhere.ru
 clickhereforcellphones.com
 clickhereforfun.org
 clickheretofind.com
-clickhouse.com
 clickhubs.com
 clickhype.com
 clicki.cn
@@ -56544,7 +56538,6 @@ crawfordcountybank.com.102.112.2o7.net
 crawlability.com
 crawlclocks.com
 crawler-dev.algolia.com
-crawler.algolia.com
 craydark.pw
 crazy4media.adk2.co
 crazy4media.adk2x.com
@@ -57274,7 +57267,6 @@ cuoieria.widget.criteo.com
 cuortwomnr.com
 cuoujvfi.angelcities.com
 cup2board.gold
-cupdates.trusteer.comdl2.pushbulletusercontent.comdyknreymc91ut.cloudfront.netgo.microsoft.comgoogleads.g.doubleclick.netin.getc
 cupidplc.go2cloud.org
 cupzwcxgx.com
 cur.lv
@@ -59858,7 +59850,6 @@ deliver.oztam.com.au
 delivere.com
 deliveredby.connectad.io
 deliveroo.7eer.net
-deliveroo.com.sg
 deliveroo.evyy.net
 delivery-asia-northeast-1.openx.net
 delivery-asia-northeast-1.servedbyopenx.com
@@ -60994,7 +60985,7 @@ discount-body-parts.7eer.net
 discountclick.com
 discountfilterstore.btttag.com
 discounttire.evyy.net
-discourse.algolia.com
+# discourse.algolia.com issue 913
 discourse.amplitude.com
 discourse.hotjar.com
 discover-path.com
@@ -62601,7 +62592,6 @@ du4rq1xqh3i1k.cloudfront.net
 du73n1kdez35fylsip3fcn7u3jkkt1513559501.nuid.imrworldwide.com
 du8783wkf05yr.cloudfront.net
 dualmarket.info
-dualstack.cloudinary.com
 dualstack.f2.shared.us-eu.fastly.net
 dualvaccine.com
 duamgurza.com
@@ -63273,7 +63263,7 @@ e7gzz.ouasflpydty21tf.bapb.gdn
 e7is2u38.top
 e7mobilede.widget.criteo.com
 e8.video-ak.cdn.spotify.com
-e8218.dscb1.akamaiedge.net
+# e8218.dscb1.akamaiedge.net Issue 904
 e836-10f2-4339-407b.reporo.net
 e85440ec98f04725.com
 e89.friendfinder.com
@@ -66319,7 +66309,7 @@ excelate.rtb.adx1.com
 excellenceads.com
 excelpractic.justclick.ru
 excelqjmtypxbd.download
-excelvba.ru
+# excelvba.ru #1022
 exceptions.singular.net
 exch-e.atdmt.com
 exch-eu.atdmt.com
@@ -68528,7 +68518,7 @@ find-best-datings.com
 find-cheap-hotels.org
 find-ip-address.org
 find-my-great-life.com
-find.api.micloud.xiaomi.net
+# find.api.micloud.xiaomi.net #1020
 find.keywordblocks.com
 findalternate.com
 findandtry.com
@@ -75717,7 +75707,7 @@ hgztvnjbsrki.com
 hh-btr.com
 hhb123.tk
 hhbekxxw5d9e.pflexads.com
-hhcdn.ru
+# hhcdn.ru #1025
 hhdbbixxs.bid
 hhdwgxmrvwyg.com
 hheeffxjz.com
@@ -82005,7 +81995,6 @@ ir0.mobify.com
 ir1p5.voluumtrk.com
 ir2.beap.gemini.yahoo.com
 ir752.voluumtrk.com
-iraiser.eu
 iran-gold.com
 iranpopup.ir
 irantableegh.org
@@ -82143,7 +82132,7 @@ isqgobsgtqsh.com
 isralink.net
 isrecblqmlzi.com
 isreportde01.webtrekk.net
-issuetracker.unity3d.com
+# issuetracker.unity3d.com #1038
 issuu-d.openx.net
 ist-track.com
 ist.go2cloud.org
@@ -82329,7 +82318,7 @@ iu16wmye.com
 iu1xoe7o.com
 iuabiwhclldt.com
 iuawzhuqjl.com
-iubenda.com
+# iubenda.com Issue 895
 iubenda.mgr.consensu.org
 iucpxetj.com
 iuewancpgd.bid
@@ -83612,7 +83601,7 @@ joyfulgame.mobi
 joynxonnxfnvqr.com
 joyoshare.pxf.io
 joyourself.com
-joyreactor.cc
+# joyreactor.cc #1024
 joysk.com
 joytocash.com
 jozfwcmrxkwva.com
@@ -83890,7 +83879,6 @@ js.rmbn.ru
 js.ru.redtram.com
 js.rutor.net.pl
 js.sddan.com
-js.sentry-cdn.com
 js.smartredirect.de
 js.smi2.ru
 js.softreklam.com
@@ -85058,8 +85046,6 @@ kinderfinder.ru
 kindredplc.com
 kindsnacks.pxf.io
 kineclick.free.fr
-kinesis.us-east-1.amazonaws.com
-kinesis.us-east-1amazonaws.com
 kinesisanalytics.eu-central-1.amazonaws.com
 kinesisanalytics.eu-west-1.amazonaws.com
 kinesiz.go2affise.com
@@ -92229,7 +92215,6 @@ metrica.yandex.ru
 metrica.yandex.ua
 metricfast.com
 metricology.com
-metricool.com
 metrics-api.dimensions.ai
 metrics-api.librato.com
 metrics-cbslocal-com.cdn.ampproject.org
@@ -113615,7 +113600,7 @@ s.agava.ru
 s.agentanalytics.com
 s.alitui.weibo.com
 s.amazon-adsystem.com
-s.aolcdn.com
+# s.aolcdn.com Github issue
 s.api.xiaoying.co
 s.appbrain.com
 s.appintop.com
@@ -113850,7 +113835,7 @@ s1.slimtrade.com
 s1.teknum.com
 s1.thstats.com
 s1.trafficmaxx.de
-s1.wp.com
+# s1.wp.com #1021
 s10.addthis.com
 s10.cnzz.com
 s10.flagcounter.com
@@ -115194,6 +115179,7 @@ sdc.prudential.com
 sdc.radio-canada.ca
 sdc.rbistats.com
 sdc.roadandtrack.com
+metrics.roadandtrack.com
 sdc.sanofi-aventis.us
 sdc.shawinc.com
 sdc.tele.net
@@ -117127,7 +117113,6 @@ shidvvvhi.com
 shiek1ph.com
 shiekh-shoes.ojrq.net
 shield.sitelock.com
-shifen.com
 shifoagn.uk
 shiftboard.actonsoftware.com
 shihoult.com
@@ -118474,7 +118459,6 @@ smartdirect.com
 smarterdownloads.net
 smarterhq.io
 smarterremarketer.net
-smartertravel.com
 smartest.click
 smarteucookiebanner.upsell-apps.com.herokudns.com
 smartfixer.software-phile.com
@@ -122765,7 +122749,6 @@ status.revcontent.com
 status.rubiconproject.com
 status.segment.com
 status.taplytics.com
-status.thawte.com
 status.treasuredata.com
 status.tubeadvertising.eu
 status.unbounce.com
@@ -128865,7 +128848,6 @@ tracker.nitropay.com
 tracker.nmp1.com
 tracker.offermarket.net
 tracker.onapps.org
-tracker.opentrackr.org
 tracker.peerclick.io
 tracker.pinnaclesports.com
 tracker.plan2.net
@@ -130456,7 +130438,6 @@ ts.flurry.com
 ts.geo.p.xpanama.net
 ts.idavid.liveperson.net
 ts.istrack.com
-ts.market.mi-img.com
 ts.p.xpanama.net
 ts.richmedia.yahoo.com
 ts.rtl.de
@@ -132684,7 +132665,7 @@ update.hiconversion.com
 update.ib.adnxs.com
 update.indexww.com
 update.kingoapp.com
-update.miui.com
+# update.miui.com issue 921
 update.moatads.com
 update.mopub.com
 update.openx.com
@@ -133065,7 +133046,7 @@ us.digitaldsp.com
 us.event.cmp.advertising.com
 us.evergage.com
 us.evyy.net
-us.find.api.micloud.xiaomi.net
+# us.find.api.micloud.xiaomi.net #1020
 us.galleryapi.micloud.xiaomi.net
 us.gmads.mookie1.com
 us.heisenberg.inmobi.com
@@ -134603,7 +134584,7 @@ vector.parrable.com
 vectormarketing.com
 vectorpastel.com
 vectorsdk.map.qq.com
-vectorstock.com
+# vectorstock.com #1000
 vectrabank.112.2o7.net
 vedety.ru
 vedicfix.com
@@ -144839,7 +144820,6 @@ www.clickclick.com
 www.clickdealer.com
 www.clickdensity.com
 www.clickedyclick.com
-www.clickhouse.com
 www.clickice.com
 www.clickintext.com
 www.clickiocdn.com
@@ -148541,7 +148521,6 @@ www.rlomrjxrpsev.com
 www.rm.inmobi.com
 www.rmbn.ru
 www.rmv.so
-www.roadandtrack.com
 www.roadmap.unbounce.com
 www.roadtrip.unbounce.com
 www.roars.com
@@ -149620,7 +149599,6 @@ www.tv4chan.com
 www.tvdttzemicrotome.review
 www.tvnews.or.kr
 www.tvpage.com
-www.tvpassport.com
 www.tvshowslist.com
 www.tvsquad.com
 www.twemyksybtripewomen.review
@@ -152208,7 +152186,7 @@ yampui-staging.flurry.com
 yamrxfbkpirt.com
 yandepit.com
 yandex-metrica.ru
-yandex.st
+# yandex.st #1023
 yandexadexchange.net
 yandexbrowser2019.ru
 yang.hitbox.com
@@ -154706,7 +154684,6 @@ ga2.line.naver.jp
 ga2x.line.naver.jp
 gs2.line.naver.jp
 gs2x.line.naver.jp
-gw.line.naver.jp
 ns1.line.naver.jp
 ns2.line.naver.jp
 adns1.line.naver.com
@@ -154724,3 +154701,34 @@ ch-news.line-apps.com
 torimochi.line-apps.com
 aax-us.amazom-adsystem.com
 aax-us-pdx.amazom-adsystem.com
+cnzz.yifenghuyu.com
+wy6r8d.qejzyy.cn
+flro0c.tianhongbanjia.cn
+rq8otf.sinochemfuheng.cn
+q784l0.momentchina.cn
+itmo8x.zmdwx.com.cn
+p7vdqa.mayuetong.cn
+c.tkkdoc.com
+xxl.hushenqiquan.com
+lwrao.qycg.wang
+xuwqs.sxtc.wang
+tqqvm.haedo.biz
+cdnbaidu.cjfexmf.cn
+doc.hbears.com
+log-api.pangolin-sdk-toutiao-b.com
+p6-be-pack-sign.pglstatp-toutiao.com
+p3-be-pack-sign.pglstatp-toutiao.com
+advertise.ldplayer.net
+creative.eagllwin.com
+storeen.ldmnq.com
+toolmatrix.plus
+transacme.com
+api.eagllwin.com
+gamegamb.com
+clog.geniex.com
+api.ahagamecenter.com
+irl-api.twibida.com
+restart-api.palmplaystore.com
+hippoobox.com
+minigame.vip
+mini6g.com

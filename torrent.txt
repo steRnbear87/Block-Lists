@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 2623
+# Total number of network filters: 2624
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -139,7 +139,6 @@
 0.0.0.0 deph.edwardk.info
 0.0.0.0 digitalboots.net
 0.0.0.0 digitalpanic.org
-0.0.0.0 directory.fsf.org
 0.0.0.0 downloadanime.org
 0.0.0.0 dreamorabt.com
 0.0.0.0 eddie4.nl
@@ -154,6 +153,7 @@
 0.0.0.0 evolutiontt.org
 0.0.0.0 excalibur.edwardk.info
 0.0.0.0 eztvefnet.org
+0.0.0.0 eztv.re
 0.0.0.0 f.moya.scarywater.net
 0.0.0.0 familyguytorrents.com
 0.0.0.0 fatalbits.ws
@@ -253,7 +253,6 @@
 0.0.0.0 nipples.hopto.org
 0.0.0.0 niteshdw.com
 0.0.0.0 nolatapers.org
-0.0.0.0 npr.org
 0.0.0.0 nw0.info
 0.0.0.0 nzone.com
 0.0.0.0 oink.me.uk
@@ -536,6 +535,9 @@
 0.0.0.0 atrack.pow7.com
 0.0.0.0 audiobit.ru
 0.0.0.0 audionews.ru
+0.0.0.0 audiobookbay.is
+0.0.0.0 audiobookbay.li
+0.0.0.0 audiobookbay.se
 0.0.0.0 audiostuff.ro
 0.0.0.0 audiotracer.com
 0.0.0.0 audiozonetorrents.com
@@ -1009,7 +1011,6 @@
 0.0.0.0 forum.punktorrents.com
 0.0.0.0 forums.darkside-raws.net
 0.0.0.0 forums.mvgroup.org
-0.0.0.0 fossbytes.com
 0.0.0.0 fourfriends.biz
 0.0.0.0 fox-kids.info
 0.0.0.0 freebookspot.unblocked.llc
@@ -1658,6 +1659,7 @@
 0.0.0.0 shellife.eu
 0.0.0.0 shnflac.net
 0.0.0.0 showbits.org
+0.0.0.0 showrss.info
 0.0.0.0 siambit.com
 0.0.0.0 siambt.com
 0.0.0.0 sifara.com
@@ -1829,7 +1831,6 @@
 0.0.0.0 torrent.lt
 0.0.0.0 torrent.mp3quran.net
 0.0.0.0 torrent.net13.ro
-0.0.0.0 torrent.nwps.w
 0.0.0.0 torrent.nwps.ws
 0.0.0.0 torrent.pimpyourmobile.info
 0.0.0.0 torrent.resonatingmedia.com
@@ -1866,10 +1867,11 @@
 0.0.0.0 torrentfinder.ru
 0.0.0.0 torrentfr.org
 0.0.0.0 torrentfrancais.com
-0.0.0.0 torrentfreak.com
+# 0.0.0.0 torrentfreak.com Issue 886
 0.0.0.0 torrentfreakz.org
 0.0.0.0 torrentfriend.net
 0.0.0.0 torrentfunk.unblocked.llc
+0.0.0.0 torrentgalaxy.to
 0.0.0.0 torrenthound.com
 0.0.0.0 torrenthr.org
 0.0.0.0 torrential.ws
@@ -2041,7 +2043,6 @@
 0.0.0.0 tracker.nyap2p.com
 0.0.0.0 tracker.open-internet.nl
 0.0.0.0 tracker.openbittorrent.com
-0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.optus.nu
 0.0.0.0 tracker.paradise-tracker.com
@@ -2638,3 +2639,4 @@
 0.0.0.0 zooqle.unblocked.llc
 0.0.0.0 zoozle.org
 0.0.0.0 ztracker.hu
+0.0.0.0 getdstudio.cc

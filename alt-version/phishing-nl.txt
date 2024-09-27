@@ -4,7 +4,7 @@
 # Homepage: https://blocklist.site
 # Help: https://github.com/blocklistproject/lists/wiki/
 # License: https://unlicense.org
-# Total number of network filters: 190245
+# Total number of network filters: 190222
 # ------------------------------------[SUPPORT]-------------------------------------
 # You can support by:
 # - reporting false positives
@@ -4457,7 +4457,6 @@ afbs.000webhostapp.com
 afcdallas.com
 afconsultingagent.lk
 afcoshockdoctor.com.au
-afd.fr
 afdata.com
 afdcadasd.000webhostapp.com
 afecto.cl
@@ -17340,7 +17339,6 @@ blog.bdipo.com
 blog.berniagabagus.com
 blog.breakawaymedia.com
 blog.brm-inc.com
-blog.btdeployments.cu.m
 blog.btdeployments.cu.ma
 blog.buildingselfconfidence.co.uk
 blog.carmenloven.si
@@ -21412,7 +21410,6 @@ cdn-dropbox-i2.com
 cdn-myappstoreservice.com
 cdn-outlook.email
 cdn.runescape.com.sd3.pw
-cdn2.hubspot.net
 cdntrungbo.edu.vn
 cdnusercontent.men
 cdodtnyty.odyuhua.maxgrowth.ru
@@ -34297,7 +34294,6 @@ endurobox.com
 enelssd.mambo.co.ke
 enem.ulbratorres.com.br
 enemy.pbphgwbr.in
-enercal.nc
 enercei.it
 enercomrocksalt.com
 enerdataonline.com
@@ -42815,7 +42811,6 @@ gossuslugi.su
 gocusluga.ru
 xn--c1aapkosp.xn--p1ai
 xn--c1aapamrvaatca.xn--p1ai
-госуспуги.рф
 vgosuslugi.ru
 gosusslygi.ru
 gosuslugivrn.ru
@@ -48987,7 +48982,6 @@ ibusttcs.com
 ibuyappleiphones.com
 ibuybroward.com
 ibuywilson.com
-ibx.key.com
 iby.iwob.maxgrowth.ru
 ibz.vhvpybze.in
 ic.meegmfio.in
@@ -54126,7 +54120,6 @@ jginspecao.com.br
 jgioutdooradvertising1-my.sharepoint.com
 jgmeiring.us
 jgnb.000webhostapp.com
-jgorka.pl
 jgphillips333.000webhostapp.com
 jgregori.icu
 jgtuh.duckdns.org
@@ -78101,7 +78094,6 @@ pennellstoe.gq
 pennshillsoap.com
 pennstatenotary.com
 pennsylvanian-drawe.000webhostapp.com
-pennymac.com
 pennyy.tk
 penopedia.com
 penproduction.ro
@@ -80612,7 +80604,6 @@ pradeepmondal.com
 pradeepnairphotography.com
 pradeepsingh.in
 pradel-artistecontemporain.fr
-pradelletorri.it
 pradomotos.com.br
 praet.gq
 praf.ru
@@ -85407,7 +85398,6 @@ rhpamplonareformas.com
 rhriss.com.br
 rhrossi.com.br
 rhsdfgal99.usa.cc
-rhsgroup.ro
 rht-ezwp.karthost.xyz
 rhutucxuopmkjkg.nut.cc
 rhymeless-delight.000webhostapp.com
@@ -92043,7 +92033,6 @@ shrisaishardha.com
 shrisha.co.in
 shritirlokpuri.com
 shrivelled-print.000webhostapp.com
-shrtm.nu
 shs.grafixreview.com
 shsceo.com
 shsh-rental.net
@@ -93347,7 +93336,6 @@ smarttorun.pl
 smarttraders.co.in
 smartube.vn
 smartunique.com
-smarturl.it
 smartwaysolutions.in
 smartwearsales.com
 smartweb.pt
@@ -113366,7 +113354,6 @@ www.afaq.com.tr
 www.afatrading.co.ke
 www.afconsultingagent.lk
 www.afcoshockdoctor.com.au
-www.afd.fr
 www.afdata.com
 www.afdcadasd.000webhostapp.com
 www.afecto.cl
@@ -121409,7 +121396,6 @@ www.barckiesc.com
 www.barclaycard-credit-cards.com
 www.barclaycard-deutschland-sicherheit.info
 www.barclaycard.co.uk-online-customers-personal-support-privacy-policy.fletcherfarmfoundation.org
-www.barclaycard.co.uk-personal-codeb6259568de39651d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675780483825.exaways.c
 www.barclayroeder.com
 www.barclays-ae.com
 www.barclays-bank.info
@@ -134803,7 +134789,6 @@ www.endurobox.com
 www.enecalcados.com
 www.enelssd.mambo.co.ke
 www.enem.ulbratorres.com.br
-www.enercal.nc
 www.enercei.it
 www.enercomrocksalt.com
 www.enerdataonline.com
@@ -138307,7 +138292,6 @@ www.fotostelvio.com
 www.fototheka.pl
 www.fotozas.ca
 www.foukart.com
-www.foundation-alliance.com
 www.foundationworldschool.com
 www.foundingpianos.com.au
 www.fountaincitywrecker.com
@@ -143340,7 +143324,6 @@ www.https.pay-pal-account.attiazione-id-9829839s837r6s4g4555so9o0s933eh23kk43.mi
 www.https.pay-pal-it.dhxe28sde23ssf.conto-ppl.mioconto-online.it
 www.https.pay-palaccountactivation.id-9829839s837r6s4g4555s33eh23kk43.mio-conto-online.it
 www.https.paypal-it.attivailtuoconto.it
-www.https.portale-titolari-nexi-italia-online-verifica-nexi.it.infomazione.nexi-identita.conto.nexi.bp2ip.dayasinergibisnis.co.i
 www.https.secure.bank-of-america.login.sign.aepsumtzlh.underpains.duckdns.org
 www.https.secure.bank-of-america.login.sign.btbnuabqua.underpains.duckdns.org
 www.https.secure.bank-of-america.login.sign.clnsxtcsql.underpains.duckdns.org
@@ -147762,7 +147745,6 @@ www.jghg.ml
 www.jginspecao.com.br
 www.jgisme.com
 www.jgnb.000webhostapp.com
-www.jgorka.pl
 www.jgphillips333.000webhostapp.com
 www.jgtuh.duckdns.org
 www.jh-qweynj.ga
@@ -151981,10 +151963,7 @@ www.login.microsofteonline.cf
 www.login.microsoftonline-idnoxa1-19031.worldmoneytransfer.pl
 www.login.microsoftonline.com.auth.jamentrust.org
 www.login.microsoftonline.com.common.account.oauth22.authorizeclient.id.4345a7b9.9a63.4910.a426.35363201d503.thriveconsulting.ne
-www.login.microsoftonline.com.common.oauth2.authorize.clientid4345a7b9.9a63.4910.a426-35363201d503.response.spreadsheetlimited.c
-www.login.microsoftonline.com.common.oauth2.authorize.clientid4345a7b99a634910a42635363201d503.response.mode.form.postresponse.t
 www.login.microsoftonline.com.common.oauth2.authorize.xcees.org
-www.login.microsoftonline.com.common8u75xfbqf19f91pahcgi6qsaw.authorizef91pahcgi6qsawvsxkv0ik2m1btdsy.oauth278ce259pkh6jtcee8u75
 www.login.microsoftonline.com.muvimov.net
 www.login.microsoftonline.comcommonoauth2authorize.edlorm.com
 www.login.orlandotrucksales.com
@@ -162996,7 +162975,6 @@ www.pennshillsoap.com
 www.pennstatenotary.com
 www.penny-davis.com
 www.pennyforthem.com.au
-www.pennymac.com
 www.pennyy.tk
 www.penopedia.com
 www.penrax.ml
@@ -164666,7 +164644,6 @@ www.pradee.ga
 www.pradeepmondal.com
 www.pradeepnairphotography.com
 www.pradeepsingh.in
-www.pradelletorri.it
 www.praf.ru
 www.pragathipatham.org
 www.pragatiivfcentre.com
@@ -167749,7 +167726,6 @@ www.rhondagerhard.com
 www.rhondanelson.com
 www.rhondayoungconsulting.com.au
 www.rhoster.com.br
-www.rhsgroup.ro
 www.rhymeless-delight.000webhostapp.com
 www.rhymercorp.com
 www.rhynooffroad.com.au
@@ -171951,7 +171927,6 @@ www.shrisaiparivarsamiti.com
 www.shrisaishardha.com
 www.shrisha.co.in
 www.shritirlokpuri.com
-www.shrtm.nu
 www.shs.grafixreview.com
 www.shsh-rental.net
 www.shshide.com
@@ -172877,7 +172852,6 @@ www.smarttofinishdev.com
 www.smarttorun.pl
 www.smarttrade-investment.net
 www.smarttraders.co.in
-www.smarturl.it
 www.smartwardapp.com
 www.smartwaysolutions.in
 www.smartwearsales.com
@@ -180201,7 +180175,6 @@ www.usa-webcash.com
 www.usa4shopping.com
 www.usaa-com-inet-ent-logon-logonredirectjsp-true.saiganeshsarees.com
 www.usaa.com-login-pages.id3432534641f6a850a564167e47e1fdd0fdacef8342d42f0ad67748442231.emeklilik-hesaplama.com
-www.usaa.com.inet.entlogon.logon.redirectjsp.ef4bce064403e276e26b792bda81c384ce09593b819e632a1.3923ef2c8955cookieid112824nosde.b
 www.usaa.com.inet.entlogon.logon.redirectjsp.true.details.refererident.srinics.com.au
 www.usaa.com.rtsth.ltd
 www.usaa.unas.cz
@@ -190314,3 +190287,7 @@ premiums-gift.com
 discqrde.com
 e-giftnitro.com
 cbtoken.me
+roblox.com.sc
+igiz.info
+discorcl-nltro.xyz
+l7its4.webwave.dev
